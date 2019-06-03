@@ -28,8 +28,6 @@ public class Application {
             e.printStackTrace();
         }
     }
-//
-//    public static
 
     public static void moveRobot(RobotConnectionManager robotConnectionManager, int toX, int toY) {
         boolean getConnection = false;
